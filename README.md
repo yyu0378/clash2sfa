@@ -3,7 +3,7 @@
 
 ## 部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fxmdhs%2Fclash2sfa)  一键部署到 Vercel
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yyu0378/clash2sfa)  一键部署到 Vercel
 
 demo https://clash2sfa.xmdhs.com （建议自行部署）
 ## docker
